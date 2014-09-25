@@ -1,0 +1,17 @@
+{
+  "name": "node",
+  "version": "0.0.0",
+  "description": "",
+  "main": "ex01.js",
+  "dependencies": {
+    "through2-map": "^1.4.0"
+  },
+  "devDependencies": {
+    "through2-map": "^1.4.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
