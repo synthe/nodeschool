@@ -1,0 +1,1 @@
+module.exports = (stringIn, count = stringIn.length) => stringIn + "!".repeat(count);
