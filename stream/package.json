@@ -1,0 +1,16 @@
+{
+  "name": "nodeschool-stream",
+  "private": true,
+  "version": "0.0.0",
+  "description": "",
+  "main": "ex01.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "split": "^0.3.0",
+    "through": "^2.3.6"
+  }
+}
