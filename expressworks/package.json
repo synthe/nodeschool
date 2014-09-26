@@ -1,5 +1,6 @@
 {
-  "name": "expressworks",
+  "name": "nodeschool-expressworks",
+  "private": true,
   "version": "0.0.0",
   "description": "",
   "main": "ex01.js",
